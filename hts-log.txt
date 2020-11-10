@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Nov 2020 08:17:35 at https://whatsthebest893972994.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://whatsthebest893972994.wordpress.com/ -O1 "C:\My Web Sites\TEST" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:19:56	Error: 	"Method Not Allowed" (405) at link https://whatsthebest893972994.wordpress.com/xmlrpc.php (from https://whatsthebest893972994.wordpress.com/2020/10/17/example-post-3/)
+08:20:18	Error: 	"Not Found" (404) at link https://whatsthebest893972994.wordpress.com/2020/10/17/example-post-3/amp/social-logos.eot?5d3b4da4f6c2460dd842dbf9e0992ea6 (from https://whatsthebest893972994.wordpress.com/2020/10/17/example-post-3/amp/)
+08:20:18	Error: 	"Not Found" (404) at link https://whatsthebest893972994.wordpress.com/2020/10/17/example-post-3/amp/social-logos.ttf?5d3b4da4f6c2460dd842dbf9e0992ea6 (from https://whatsthebest893972994.wordpress.com/2020/10/17/example-post-3/amp/)
+08:20:20	Warning: 	Found for https://whatsthebest893972994.wordpress.com/coding/?share=twitter
+08:20:20	Warning: 	File has moved from https://whatsthebest893972994.wordpress.com/coding/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Coding&url=https%3A%2F%2Fwhatsthebest893972994.wordpress.com%2Fcoding%2F
+08:20:20	Warning: 	Found for https://whatsthebest893972994.wordpress.com/coding/?share=facebook
+08:20:20	Warning: 	File has moved from https://whatsthebest893972994.wordpress.com/coding/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwhatsthebest893972994.wordpress.com%2Fcoding%2F&t=Coding
+08:20:21	Error: 	"Not Found" (404) at link https://whatsthebest893972994.wordpress.com/2020/10/17/example-post-2/amp/social-logos.eot?5d3b4da4f6c2460dd842dbf9e0992ea6 (from https://whatsthebest893972994.wordpress.com/2020/10/17/example-post-2/amp/)
+08:20:21	Error: 	"Not Found" (404) at link https://whatsthebest893972994.wordpress.com/2020/10/17/example-post-2/amp/social-logos.ttf?5d3b4da4f6c2460dd842dbf9e0992ea6 (from https://whatsthebest893972994.wordpress.com/2020/10/17/example-post-2/amp/)
+08:20:21	Error: 	"Not Found" (404) at link https://whatsthebest893972994.wordpress.com/project-1/ (from https://whatsthebest893972994.wordpress.com/56-2/)
+08:20:21	Warning: 	Found for https://whatsthebest893972994.wordpress.com/56-2/?share=twitter
+08:20:21	Warning: 	File has moved from https://whatsthebest893972994.wordpress.com/56-2/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&url=https%3A%2F%2Fwhatsthebest893972994.wordpress.com%2F56-2%2F
+08:20:21	Warning: 	Found for https://whatsthebest893972994.wordpress.com/56-2/?share=facebook
+08:20:21	Warning: 	File has moved from https://whatsthebest893972994.wordpress.com/56-2/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwhatsthebest893972994.wordpress.com%2F56-2%2F&t=
+08:20:21	Error: 	"Not Found" (404) at link https://whatsthebest893972994.wordpress.com/2020/10/17/example-post/amp/social-logos.eot?5d3b4da4f6c2460dd842dbf9e0992ea6 (from https://whatsthebest893972994.wordpress.com/2020/10/17/example-post/amp/)
+08:20:21	Error: 	"Not Found" (404) at link https://whatsthebest893972994.wordpress.com/2020/10/17/example-post/amp/social-logos.ttf?5d3b4da4f6c2460dd842dbf9e0992ea6 (from https://whatsthebest893972994.wordpress.com/2020/10/17/example-post/amp/)
+08:20:21	Warning: 	Found for https://whatsthebest893972994.wordpress.com/c-programming-tutorial-course-training-classes-certification-online-2020-updated/?share=twitter
+08:20:21	Warning: 	File has moved from https://whatsthebest893972994.wordpress.com/c-programming-tutorial-course-training-classes-certification-online-2020-updated/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=C%20Programming%20Tutorials&url=https%3A%2F%2Fwhatsthebest893972994.wordpress.com%2Fc-programming-tutorial-course-training-classes-certification-online-2020-updated%2F
+08:20:21	Warning: 	Found for https://whatsthebest893972994.wordpress.com/c-programming-tutorial-course-training-classes-certification-online-2020-updated/?share=facebook
+08:20:21	Warning: 	File has moved from https://whatsthebest893972994.wordpress.com/c-programming-tutorial-course-training-classes-certification-online-2020-updated/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwhatsthebest893972994.wordpress.com%2Fc-programming-tutorial-course-training-classes-certification-online-2020-updated%2F&t=C%20Programming%20Tutorials
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 47 seconds : 107 links scanned, 89 files written (2875582 bytes overall) [1970860 bytes received at 11801 bytes/sec], 1392034 bytes transferred using HTTP compression in 62 files, ratio 29%, 1.8 requests per connection
+(8 errors, 12 warnings, 0 messages)

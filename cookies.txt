@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.codeconquest.com	TRUE	/	FALSE	1999999999	__cfduid	d677852019262c9ed6366656fec830cb31604996276
+www.codeconquest.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
